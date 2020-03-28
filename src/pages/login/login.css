@@ -1,0 +1,6 @@
+.login{width:100%;height:100vh;background:url(../../assets/img/bg.png) no-repeat;position: relative;}
+.login .login_from{width:500px;height:500px;background:url(../../assets/img/border_login.png) no-repeat;position: absolute;right: 10%;top:25%;}
+.login .login_from .ant-form{color:#fff !important;}
+.login .login_from .ant-form label{color:#fff !important;}
+.login  h3{color:#fff ;font-size: 38px;font-weight: 600;line-height: 132px;text-align: center;}
+/* .login .login_from .ant-btn-primary{width:100%;height: 50px;font-size: 18px;} */

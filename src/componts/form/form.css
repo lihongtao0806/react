@@ -1,0 +1,19 @@
+.myForm .ant-form-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 15px;
+    justify-content: space-between;
+  }
+.myForm .ant-form-item-label {
+    width:160px;
+  }
+  .myForm  .ant-form-item-control{
+    min-width: 220px;
+  }
+  .myForm .footer {
+    margin:0 auto;width:200px;
+  }
+  .myForm .remark .ant-form-item-control-wrapper {
+    width: 600px;
+  }
+

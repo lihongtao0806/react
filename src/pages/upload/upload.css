@@ -1,0 +1,10 @@
+.upload_header{padding:15px;display:flex;height: 60px;background: #070d41;color:#fff;justify-content: space-between;}
+.upload_header h3{color: #fff;font-size: 18px;}
+.upload_body{position: relative;padding-bottom: 50px;}
+.upload_body .myForm{width:800px;margin:0 auto;margin-top:20px;}
+.upload_body h3{font-size: 18px;line-height: 50px;text-align: center;border-bottom: 1px solid #999;}
+.upload_body .ant-calendar-picker{width:100%;}
+.clearfix{display: flex;width: 800px;margin:0 auto;align-items: flex-start;
+    margin-bottom: 15px;}
+.clearfix .imgName{width: 180px;text-align: right;margin-right: 10px;}
+.imgfooter{position: absolute;bottom:0;left: 50%;}
